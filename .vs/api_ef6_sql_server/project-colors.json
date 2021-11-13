@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1242669c-fc07-40b8-8862-c82c36e3614b": {
+      "ProjectGuid": "1242669c-fc07-40b8-8862-c82c36e3614b",
+      "DisplayName": "api_ef6_sql_server",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

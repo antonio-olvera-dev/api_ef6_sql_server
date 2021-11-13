@@ -5,10 +5,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 
 
-
-builder.Services.AddDbContext<LibraryContext>(
-        options => options.UseSqlServer(@"Data Source=PC-ANTONIO\\SQLEXPRESS;Initial Catalog=library"));
-
 builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
