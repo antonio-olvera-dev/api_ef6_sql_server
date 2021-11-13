@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I8IbPtKQ0D0in/PXdDAFX1gwWu2fv5nPFff+4wTNa+0=",
+  "Source": "api_ef6_sql_server",
+  "BasePath": "_content/api_ef6_sql_server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

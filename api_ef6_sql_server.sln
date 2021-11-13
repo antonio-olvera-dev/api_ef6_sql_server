@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api_ef6_sql_server", "api_ef6_sql_server\api_ef6_sql_server.csproj", "{1242669C-FC07-40B8-8862-C82C36E3614B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1242669C-FC07-40B8-8862-C82C36E3614B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1242669C-FC07-40B8-8862-C82C36E3614B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1242669C-FC07-40B8-8862-C82C36E3614B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1242669C-FC07-40B8-8862-C82C36E3614B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EE7E61E-E5AA-4F2C-AEBC-349573E4D1E1}
+	EndGlobalSection
+EndGlobal
